@@ -29,7 +29,7 @@ Power BI- for transformation of data, measuring of data, modelling and creation 
 - Dynamic measures to calculate averages, counts, and distribution trends 
 
 ### Files included
-- ['Palmora Group HR Analysis Report.7z'](./Palmora Group HR Analysis Report.7z), which contains transformed data of Palmora Group emp-data.csv and Palmora Group Bonus Rules.xlsx, all merged as a query with columns for band of salary, salary, departments, regions, ratings, gender, gender count, average ratings by gender etc. It also contains explanatory dashboards and slicers for enhanced analysis.
+- ['Palmora Group HR Analysis Report.7z'](./Palmora%20Group%20HR%20Analysis%20Report.7z), which contains transformed data of Palmora Group emp-data.csv and Palmora Group Bonus Rules.xlsx, all merged as a query with columns for band of salary, salary, departments, regions, ratings, gender, gender count, average ratings by gender etc. It also contains explanatory dashboards and slicers for enhanced analysis.
 
 
 
