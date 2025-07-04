@@ -37,6 +37,6 @@ Power BI- for transformation of data, measuring of data, modelling and creation 
 - Click on the zipped file to open, explore the dataset.
 - Locate the Dashboard sheet with interactive visuals and enhanced insights.
 - Filter by region or department or gender to customize your view.
-- The password? Think of the author. 
+- The password? Think of the author's name.
 
 All created by Mo-space.
